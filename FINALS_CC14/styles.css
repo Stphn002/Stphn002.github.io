@@ -1,0 +1,15 @@
+ul,ol{
+    font-style: italic;
+    color:aqua;
+}
+
+.lorem {
+    font-style: italic;
+    color: blueviolet;
+}
+
+.intro {
+    font-size: 200%;
+    font-family: sans-serif;
+    color: aquamarine;
+}
